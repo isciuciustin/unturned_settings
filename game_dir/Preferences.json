@@ -4,26 +4,26 @@
     "Vehicle_Engine_Volume_Multiplier": 1.0
   },
   "Graphics": {
-    "Use_Lens_Dirt": true,
-    "Chromatic_Aberration_Intensity": 0.2,
+    "Use_Lens_Dirt": false,
+    "Chromatic_Aberration_Intensity": 0.0,
     "LOD_Bias": 0.0,
     "Override_Resolution_Width": -1,
     "Override_Resolution_Height": -1,
     "Override_UI_Scale": -1.0,
     "Override_Fullscreen_Mode": -1,
     "Override_Refresh_Rate": -1,
-    "Override_Vertical_Field_Of_View": -1.0,
+    "Override_Vertical_Field_Of_View": 90.0,
     "Default_Text_Contrast": 0,
     "Inconspicuous_Text_Contrast": 0,
     "Colorful_Text_Contrast": 0
   },
   "Viewmodel": {
-    "Field_Of_View_Aim": 60.0,
-    "Field_Of_View_Hip": 60.0,
+    "Field_Of_View_Aim": 100.0,
+    "Field_Of_View_Hip": 100.0,
     "Field_Of_View_Aim_Scope": 60.0,
-    "Offset_Horizontal": 0.0,
-    "Offset_Vertical": 0.0,
-    "Offset_Depth": 0.0
+    "Offset_Horizontal": -1.0,
+    "Offset_Vertical": -0.7,
+    "Offset_Depth": 0.5
   },
   "Chat": {
     "Fade_Delay": 10.0,
