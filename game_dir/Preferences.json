@@ -18,12 +18,12 @@
     "Colorful_Text_Contrast": 0
   },
   "Viewmodel": {
-    "Field_Of_View_Aim": 100.0,
-    "Field_Of_View_Hip": 100.0,
+    "Field_Of_View_Aim": 50.0,
+    "Field_Of_View_Hip": 50.0,
     "Field_Of_View_Aim_Scope": 60.0,
-    "Offset_Horizontal": -1.0,
-    "Offset_Vertical": -0.7,
-    "Offset_Depth": 0.5
+    "Offset_Horizontal": -0.2,
+    "Offset_Vertical": -0.1,
+    "Offset_Depth": 0.1
   },
   "Chat": {
     "Fade_Delay": 10.0,
