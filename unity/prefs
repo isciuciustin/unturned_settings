@@ -9,6 +9,6 @@
 	<pref name="Screenmanager Resolution Width Default" type="int">1024</pref>
 	<pref name="Screenmanager Window Position X" type="int">0</pref>
 	<pref name="Screenmanager Window Position Y" type="int">0</pref>
-	<pref name="UnityGraphicsQuality" type="int">4</pref>
+	<pref name="UnityGraphicsQuality" type="int">1</pref>
 	<pref name="UnitySelectMonitor" type="int">0</pref>
 </unity_prefs>

@@ -12,7 +12,7 @@
     "Override_UI_Scale": -1.0,
     "Override_Fullscreen_Mode": -1,
     "Override_Refresh_Rate": -1,
-    "Override_Vertical_Field_Of_View": 90.0,
+    "Override_Vertical_Field_Of_View": -1.0,
     "Default_Text_Contrast": 0,
     "Inconspicuous_Text_Contrast": 0,
     "Colorful_Text_Contrast": 0
